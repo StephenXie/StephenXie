@@ -1,8 +1,8 @@
-![StephenXie's github stats](https://github-readme-stats.vercel.app/api?username=StephenXie)
+[![StephenXie's github stats](https://github-readme-stats.vercel.app/api?username=StephenXie)](https://www.stephenxie.com/)
 ### Hi there 👋
 
 - 🔭 I’m currently working on...
-  - A [~~secret~~ website](https://www.stephenx.tech/).
+  - [My website](https://www.stephenx.tech/).
 - 📚 I have experience with...
   - Django
   - Jekyll
