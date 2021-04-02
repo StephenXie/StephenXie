@@ -17,4 +17,6 @@
 - 🌱 I’m currently learning...
   - C++
   - Java
-  - 
+  - Redis
+  - Docker
+  - Apache Server
