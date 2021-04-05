@@ -1,4 +1,4 @@
-[![StephenXie's github stats](https://github-readme-stats.vercel.app/api?username=StephenXie)](https://www.stephenxie.com/)
+[![StephenXie's github stats](https://github-readme-stats.vercel.app/api?username=StephenXie&count_private=true)](https://www.stephenxie.com/)
 ### Hi there 👋
 
 - 🔭 I’m currently working on...
