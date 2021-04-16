@@ -4,6 +4,9 @@
 
 - 🔭 I’m currently working on...
   - [My website](https://www.stephenx.tech/).
+  - Competitive programming
+  - Scrapers
+  - Other fun projects
 - 📚 I have experience with...
   - Django
   - Jekyll
