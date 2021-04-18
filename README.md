@@ -1,5 +1,4 @@
 [![StephenXie's github stats](https://github-readme-stats.vercel.app/api?username=StephenXie&count_private=true&theme=radical&show_icons=true)](https://www.stephenxie.com/)
-[![StephenXie's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephenXie&count_private=true&theme=radical&layout=compact&langs_count=10&hide=css,scss)](https://www.stephenxie.com/)
 ### Hi there 👋
 
 - 🔭 I’m currently working on...
