@@ -17,6 +17,9 @@
   - Beautiful Soup 
   - Selenium
   - Scrapy
+  - Unity
+  - Pygame
+  - Pyglet
 - 🌱 I’m currently learning...
   - C++
   - Java
