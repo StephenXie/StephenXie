@@ -1,4 +1,4 @@
-[![StephenXie's github stats](https://github-readme-stats.vercel.app/api?username=StephenXie&count_private=true&theme=radical&show_icons=true)](https://www.stephenxie.com/)
+[![StephenXie's github stats](https://github-readme-stats.vercel.app/api?username=StephenXie&count_private=true&theme=radical&show_icons=true)](https://www.stephenxie.com/)  
 [![StephenXie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StephenXie&count_private=true&theme=radical&show_icons=true)](https://wakatime.com/@StephenXie)
 ### Hi there 👋
 
