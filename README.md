@@ -6,6 +6,7 @@
   - [My website](https://www.stephenx.tech/).
   - Competitive programming
   - Scrapers
+  - Typing App
   - Other fun projects
 - 📚 I have experience with...
   - Django
