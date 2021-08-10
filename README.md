@@ -11,6 +11,7 @@
 - 📚 I have experience with...
   - Django
   - Jekyll
+  - React.js
   - jQuery
   - Bootstrap
   - TailwindCSS
