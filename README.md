@@ -3,13 +3,14 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on...
-  - [My website](https://www.stephenx.tech/).
+  - [A website](https://www.stephenxie.com/).
+  - [Another website](https://dev.stephenxie.com/).
   - Competitive programming
   - Scrapers
-  - Typing App
+<!--   - Typing App -->
   - Other fun projects
 - 📚 I have experience with...
-  - Django
+  - Django + Rest Framework
   - Jekyll
   - React.js
   - jQuery
