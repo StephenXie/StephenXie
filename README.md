@@ -2,13 +2,14 @@
 [![StephenXie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StephenXie&count_private=true&theme=radical&show_icons=true)](https://wakatime.com/@StephenXie)
 ### Hi there 👋
 
-- 🔭 I’m currently working on...
+<!-- - 🔭 I’m currently working on...
   - [A website](https://www.stephenxie.com/).
-  - [Another website](https://dev.stephenxie.com/).
+  - [Another one](https://dev.stephenxie.com/).
+  - [And another one] 
   - Competitive programming
   - Scrapers
-<!--   - Typing App -->
-  - Other fun projects
+  - Typing App
+  - Other fun projects -->
 - 📚 I have experience with...
   - Django + Rest Framework
   - Jekyll
