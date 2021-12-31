@@ -31,5 +31,5 @@
   - Redis
   - Docker
   - Apache Server
-- 💬 Ask me about anything [here](https://github.com/StephenXie/StephenXie/issues)
+<!-- - 💬 Ask me about anything [here](https://github.com/StephenXie/StephenXie/issues) -->
 <div style="text-align: right"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></div>
