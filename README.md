@@ -32,4 +32,5 @@
   - Docker
   - Apache Server
 <!-- - 💬 Ask me about anything [here](https://github.com/StephenXie/StephenXie/issues) -->
+[![Slime Shooter Game](https://i.ibb.co/F4xCL2d/game-preview.png)](https://stephenx.itch.io/slime)
 <div style="text-align: right"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></div>
