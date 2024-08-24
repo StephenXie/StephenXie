@@ -1,4 +1,4 @@
-[![StephenXie's github stats](https://github-readme-stats.vercel.app/api?username=StephenXie&count_private=true&theme=radical&show_icons=true)](https://www.stephenxie.com/)  
+<!--[![StephenXie's github stats](https://github-readme-stats.vercel.app/api?username=StephenXie&count_private=true&theme=radical&show_icons=true)](https://www.stephenxie.com/)  
 [![StephenXie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StephenXie&count_private=true&theme=radical&show_icons=true)](https://wakatime.com/@StephenXie)
 ### Hi there 👋
 
@@ -33,4 +33,4 @@
   - Apache Server
 <!-- - 💬 Ask me about anything [here](https://github.com/StephenXie/StephenXie/issues) -->
 [![Slime Shooter Game](https://i.ibb.co/F4xCL2d/game-preview.png)](https://stephenx.itch.io/slime)
-<div style="text-align: right"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></div>
+<div style="text-align: right"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></div>-->
